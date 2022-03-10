@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_res_maxwell.pdf
 uid: 5ba99991-70b7-65b7-d1f1-a4b9936af3bc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

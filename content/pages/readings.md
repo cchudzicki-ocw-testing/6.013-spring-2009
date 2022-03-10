@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 31f14fa4-1ee6-0358-6058-4feee6a7f484
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the course notes, _Electromagnetics and Applications_, by David Staelin.

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: cb22634f-94d3-4e0a-9d8c-c4747d9ac415
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Solutions are available for selected problem sets below. Problem set 12 was meant as a learning exercise and was not collected; it was issued to students with solutions.

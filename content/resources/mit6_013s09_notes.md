@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_notes.pdf
 uid: d3be4ea7-8b03-6a63-6223-0fb41780cf54
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

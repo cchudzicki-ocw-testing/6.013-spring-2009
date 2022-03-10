@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_sol_quiz02.pdf
 uid: bad07b1a-d6f1-0fdb-d79f-99e521377d30
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

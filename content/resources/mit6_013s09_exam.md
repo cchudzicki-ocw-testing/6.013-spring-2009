@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_exam.pdf
 uid: 3a5abd06-377d-32df-c734-5a54fdbbc898
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

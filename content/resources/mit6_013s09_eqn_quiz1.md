@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_eqn_quiz1.pdf
 uid: 603995e1-cd41-f847-070c-b16ba007bc80
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

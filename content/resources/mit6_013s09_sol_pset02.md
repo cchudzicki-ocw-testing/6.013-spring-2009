@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_sol_pset02.pdf
 uid: 08c45793-cbe3-33be-5375-9d3e752b7503
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_back.pdf
 uid: 6fa0dd1b-76ca-434b-aefa-294742476195
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

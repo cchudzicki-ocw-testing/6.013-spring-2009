@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT6_013S09_eqn_exam.pdf
 uid: 398b7fe0-dba6-1a18-57e9-71c8590e3ea7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Movie Demonstrations
 uid: 5a717f3c-cfff-e7aa-8019-9714433617bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains movies and demos developed with MATLAB® that illustrate concepts presented in class.
@@ -40,7 +44,7 @@ This movie demonstrates the phase difference and the amplitude decay of the E an
 ([MPEG - 1.6MB](/ans7870/6/6.013/f02/freespace.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/media.m.txt))
+({{% resource_link 767fc502-97d5-b2b3-3591-e6d602da0ec1 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +59,7 @@ This movie demonstrates a right-handed elliptically polarized wave.
 ([MPEG - 1.2MB](/ans7870/6/6.013/f02/RHEP.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/array.m.txt))
+({{% resource_link 247f61e8-17b2-c0a5-77e0-8bb1b8819d74 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +74,7 @@ This movie demonstrates a left-handed elliptically polarized wave.
 ([MPEG - 1.2MB](/ans7870/6/6.013/f02/LHEP.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/array.m.txt))
+({{% resource_link 247f61e8-17b2-c0a5-77e0-8bb1b8819d74 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ This movie demonstrates the array radiation pattern for 4 dipoles.
 ([MPEG - 1.2MB](/ans7870/6/6.013/f02/4dipoles.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/array.m.txt))
+({{% resource_link 247f61e8-17b2-c0a5-77e0-8bb1b8819d74 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +149,7 @@ This movie demonstrates the phase difference and the amplitude decay of the E an
 ([MPEG - 1.0MB](/ans7870/6/6.013/f02/lossy.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/media.m.txt))
+({{% resource_link 767fc502-97d5-b2b3-3591-e6d602da0ec1 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ This movie demonstrates the phase difference and the amplitude decay of the E an
 ([MPEG](/ans7870/6/6.013/f02/plasma.mpeg))
 {{< tdclose >}}
 {{< tdopen >}}
-([TXT](/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/movie-demonstrations/media.m.txt))
+({{% resource_link 767fc502-97d5-b2b3-3591-e6d602da0ec1 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
