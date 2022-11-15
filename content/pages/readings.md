@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course notes, Electromagnetics and Applications,
+  by David Staelin.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

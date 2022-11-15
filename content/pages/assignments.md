@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course along
+  with solutions for selected problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Problem set 1 ({{% resource_link 78046324-95a8-e28c-58aa-f7f081eb3b60 "PDF" %}})
 Problem set 2 ({{% resource_link 3b001b98-733f-87eb-9bfd-2d20de4c40cd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 08c45793-cbe3-33be-5375-9d3e752b7503 "PDF" %}})
+({{% resource_link 08c45793-cbe3-33be-5375-9d3e752b7503 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ Problem set 6 ({{% resource_link 4032bef7-5eff-cbae-6418-42618dd16a9f "PDF" %}})
 Problem set 7 ({{% resource_link 064f93dc-2041-f9ed-a737-6b2f59b01727 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 509f382e-cb3a-cee3-297d-bf8255c0a772 "PDF - 2.8MB" %}})
+({{% resource_link 509f382e-cb3a-cee3-297d-bf8255c0a772 "PDF - 2.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

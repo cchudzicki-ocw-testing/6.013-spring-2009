@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains movies and demos developed with MATLAB that illustrate
+  concepts presented in class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Movie Demonstrations
